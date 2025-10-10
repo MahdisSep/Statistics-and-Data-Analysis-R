@@ -1,0 +1,11 @@
+---
+title: "HW1"
+output: html_document
+date: "2024-11-01"
+---
+
+```{r}
+print(5)
+
+```
+
