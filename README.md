@@ -27,8 +27,8 @@ HW1-RESULTS
 
 HW2-RESULTS
 
-![HW2-RESULTS2] (https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW2-Range-Normalization/results2.png)
-![HW2-RESULTS3] (https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW2-Range-Normalization/results3.png)
+![./HW2-Range-Normalization/results2.png] (https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW2-Range-Normalization/results2.png)
+![./HW2-Range-Normalization/results3.png] (https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW2-Range-Normalization/results3.png)
 
 -----
 
