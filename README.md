@@ -18,7 +18,6 @@ The projects demonstrate strong proficiency in data manipulation, exploratory da
 | **Inference** | One-Sample T-Test, Interpretation of P-values and Confidence Intervals | Base R |
 | **Visualization** | Scatter Plots, Line Charts for Time Series Trends, Customized Plotting | `ggplot2` |
 
----
 
 #### Showcase
 
