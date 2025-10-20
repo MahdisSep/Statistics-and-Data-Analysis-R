@@ -30,6 +30,15 @@ HW2-RESULTS
 ![./HW2-Range-Normalization/results2.png](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW2-Range-Normalization/results2.png)
 ![./HW2-Range-Normalization/results3.png](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW2-Range-Normalization/results3.png)
 
+HW3-RESULTS
+
+![./HW3-Regression-Time-Series-and-T-Test/results2.png](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW3-Regression-Time-Series-and-T-Test/results2.png)
+![./HW3-Regression-Time-Series-and-T-Test/results3.png](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW3-Regression-Time-Series-and-T-Test/results3.png)
+![./HW3-Regression-Time-Series-and-T-Test/results4.png](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW3-Regression-Time-Series-and-T-Test/results4.png)
+![./HW3-Regression-Time-Series-and-T-Test/results6.png](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW3-Regression-Time-Series-and-T-Test/results6.png)
+![./HW3-Regression-Time-Series-and-T-Test/result7.png](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW3-Regression-Time-Series-and-T-Test/result7.png)
+
+
 -----
 
 
