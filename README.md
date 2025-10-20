@@ -23,8 +23,12 @@ The projects demonstrate strong proficiency in data manipulation, exploratory da
 
 HW1-RESULTS
 
-(![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW1-Dice-Simulation-and-Sampling/results1.png))
-<!-- ![HW1-RESULTS2] (./HW1-Dice-Simulation-and-Sampling/results2.png) -->
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW1-Dice-Simulation-and-Sampling/results1.png)
+
+HW2-RESULTS
+
+![HW2-RESULTS2] (https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW2-Range-Normalization/results2.png)
+![HW2-RESULTS3] (https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW2-Range-Normalization/results3.png)
 
 -----
 
