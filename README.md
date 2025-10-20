@@ -23,16 +23,8 @@ The projects demonstrate strong proficiency in data manipulation, exploratory da
 
 HW1-RESULTS
 
-![HW1-RESULTS] (./HW1-Dice-Simulation-and-Sampling/results1.png)
+(![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Statistics-and-Data-Analysis-R/blob/main/HW1-Dice-Simulation-and-Sampling/results1.png))
 <!-- ![HW1-RESULTS2] (./HW1-Dice-Simulation-and-Sampling/results2.png) -->
-
-<!-- Epoch 0
-
-![CIFAR_0](CIFAR_0.png)
-
-Epoch 60
-
-![CIFAR_60](CIFAR_60.png) -->
 
 -----
 
