@@ -20,6 +20,18 @@ The projects demonstrate strong proficiency in data manipulation, exploratory da
 
 ---
 
+#### Showcase
+
+HW1-RESULTS
+
+![HW1-RESULTS] (./HW1-Dice-Simulation-and-Sampling/results1.png)
+![HW1-RESULTS2] (./HW1-Dice-Simulation-and-Sampling/results2.png)
+
+
+-----
+
+
+
 ### 📂 Repository Structure
 
 The projects are organized into separate folders, each containing the R code (Jupyter Notebook or R scripts), necessary data files, and a dedicated `README.md` detailing the objectives and key findings of that specific assignment.
